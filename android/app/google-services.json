@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390068158890",
+    "project_id": "conectacontea",
+    "storage_bucket": "conectacontea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390068158890:android:f225d2ec0e9669742aabd3",
+        "android_client_info": {
+          "package_name": "com.tfg.conectacontea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390068158890-s5i3uplidh4nbsvavc9nt0itlic338ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tfg.conectacontea",
+            "certificate_hash": "ff8bdf4b2e706f3195dd157f12119244e7a6c7c2"
+          }
+        },
+        {
+          "client_id": "390068158890-jsn61vj09vjjhdh1du2s9i8v9qmj33i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tv1iSRJgNPqGu0Bfoe0xYd3lJ4JL-_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390068158890-jsn61vj09vjjhdh1du2s9i8v9qmj33i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
